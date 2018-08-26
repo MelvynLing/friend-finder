@@ -1,0 +1,21 @@
+{
+  "name": "friendster",
+  "version": "1.0.0",
+  "description": "Friend finding Application ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Friends",
+    "Finding",
+    "Quiz"
+  ],
+  "author": "Melvyn T Ling",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
